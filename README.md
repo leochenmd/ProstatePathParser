@@ -1,5 +1,5 @@
 # ProstatePathParser
-Automated parsing of prostate biopsy pathology reports
+Automated parsing of prostate biopsy pathology reports for quick and accurate generation of databases for clinical research
 
 To be revealed during AUA 2019
 
